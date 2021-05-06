@@ -1,2 +1,2 @@
 # Geologist
-Experiment on these substances: Stone, Rubber and Iron. Observe how they behave...
+Geologist Project
